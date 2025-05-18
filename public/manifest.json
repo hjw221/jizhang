@@ -1,0 +1,68 @@
+{
+  "name": "记账 - 费用追踪器",
+  "short_name": "记账",
+  "description": "一个简约的应用程序，用于跟踪您的日常开支。",
+  "icons": [
+    {
+      "src": "https://placehold.co/72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "data_ai_hint": "logo finance"
+    },
+    {
+      "src": "https://placehold.co/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable",
+      "data_ai_hint": "logo finance"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#5994D7",
+  "orientation": "portrait-primary"
+}
